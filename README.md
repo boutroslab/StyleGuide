@@ -36,7 +36,7 @@ Consider Gestalt principles:
 
 ## R Styles
 
-General color scheme. <br><div style='background-color: #4285f4; width:20px; height:20px;'></div><div style='background-color: #008744; width:20px; height:20px;'></div><div style='background-color: #ffa700; width:20px; height:20px;'></div><div style='background-color: #d62d20; width:20px; height:20px;'></div>
+General color scheme. <br><div style='background-color: #4285f4; width:20px; height:20px;'>test</div><div style='background-color: #008744; width:20px; height:20px;'></div><div style='background-color: #ffa700; width:20px; height:20px;'></div><div style='background-color: #d62d20; width:20px; height:20px;'></div>
 
 
 ```r
