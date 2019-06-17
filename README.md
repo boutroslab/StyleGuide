@@ -11,41 +11,26 @@ in figures. The interaction scheme, for everything related to genetic interactio
 ## General advice on color and data visualization
 
 Consider Gestalt principles:
+1. figure-ground  
+ The figure-ground principle states that people instinctively perceive objects as either being in the foreground or the background.
 
-1.  Principle #1: figure-ground
+2. similarity  
+ The principle of similarity states that when things appear to be similar to each other, we group them together. And we also tend to think they have the same function.
+ 
+3. proximity  
+ The principle of proximity states that things that are close together appear to be more related than things that are spaced farther apart.
 
-T he figure-ground principle states that people instinctively perceive objects as 
-  either being in the foreground or the background.
+4. common region  
+ The principle of common region is highly related to proximity. It states that when objects are located within the same closed region, we perceive them as being grouped together.
 
-2.  Principle #2: similarity
+5. continuity  
+ The principle of continuity states that elements that are arranged on a line or curve are perceived to be more related than elements not on the line or curve.
 
-  The principle of similarity states that when things appear to be similar to each 
-  other, we group them together. And we also tend to think they have the same function.
-
-3.  Principle #3: proximity
-
-  The principle of proximity states that things that are close together appear to 
-  be more related than things that are spaced farther apart.
-
-4.  Principle #4: common region
-
-  The principle of common region is highly related to proximity. It states that 
-  when objects are located within the same closed region, we perceive them as being grouped together.
-
-5.  Principle #5: continuity
-
-  The principle of continuity states that elements that are arranged on a line or 
-  curve are perceived to be more related than elements not on the line or curve.
-
-6.  Principle #6: closure
-
-  The principle of closure states that when we look at a complex arrangement of 
-  visual elements, we tend to look for a single, recognizable pattern.
-
-7.  Principle #7: focal point
-
-  The focal point principle states that whatever stands out visually will 
-  capture and hold the viewer’s attention first.
+6. closure  
+ The principle of closure states that when we look at a complex arrangement of visual elements, we tend to look for a single, recognizable pattern.
+ 
+7. focal point 
+ The focal point principle states that whatever stands out visually will capture and hold the viewer’s attention first.
 
 [Color Coding by Bang Wong](https://www.nature.com/articles/nmeth0810-573)
 
