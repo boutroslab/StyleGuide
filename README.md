@@ -1,27 +1,78 @@
-[[styleguide-material-for-figures]]
-Boutros lab style guie for plots and figures material of published manuscripts
-----------------------------------------------
+# Boutros lab style guide for plots and figures material of published manuscripts
 
-# B110 Style guide
+----------------------------------------------
 
 This Style guide should serve as a general guideline. 
 
 The **Rmarkdown** file serves as template for creating tidy graphics of the most
-used fata vizualizations.
+used data visualizations. The general color scheme should be used for highlights 
+in figures. The interaction scheme, for everything related to genetic interactions. 
 
+## General advice on color and data visualization
 
-## RSytles
+Consider Gestalt principles:
+
+1.  Principle #1: figure-ground
+
+T he figure-ground principle states that people instinctively perceive objects as 
+  either being in the foreground or the background.
+
+2.  Principle #2: similarity
+
+  The principle of similarity states that when things appear to be similar to each 
+  other, we group them together. And we also tend to think they have the same function.
+
+3.  Principle #3: proximity
+
+  The principle of proximity states that things that are close together appear to 
+  be more related than things that are spaced farther apart.
+
+4.  Principle #4: common region
+
+  The principle of common region is highly related to proximity. It states that 
+  when objects are located within the same closed region, we perceive them as being grouped together.
+
+5.  Principle #5: continuity
+
+  The principle of continuity states that elements that are arranged on a line or 
+  curve are perceived to be more related than elements not on the line or curve.
+
+6.  Principle #6: closure
+
+  The principle of closure states that when we look at a complex arrangement of 
+  visual elements, we tend to look for a single, recognizable pattern.
+
+7.  Principle #7: focal point
+
+  The focal point principle states that whatever stands out visually will 
+  capture and hold the viewer’s attention first.
+
+[Color Coding by Bang Wong](https://www.nature.com/articles/nmeth0810-573)
+
+## R Styles
 
 General color scheme.
+
+```r
+
+b110_grey   = '#808080'
+b110_grey_light   = '#909090'
+b110_transparent_black = alpha('#000000',0.5)
+
+b110_blue= '#4285f4'
+b110_green= '#008744'
+b110_yellow= '#ffa700'
+b110_red= '#d62d20'
+
+```
+
+Genetic interaction color scheme.
 
 ```r
 
 sgi_blue    = '#5087C8'
 sgi_yellow1 = '#F2EE35'
 sgi_yellow2 = '#FED98E'
-b110_grey   = '#808080'
-b110_grey_light   = '#909090'
-b110_transparent_black = alpha('#000000',0.5)
 
 ```
 
@@ -79,4 +130,7 @@ a:visited {
       text-decoration: underline;
 }
 ```
+
 And more to be added...
+
+Gestalt list was adapted from [Usertesting](https://www.usertesting.com/blog/gestalt-principles/)
