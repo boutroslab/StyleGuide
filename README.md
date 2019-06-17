@@ -15,14 +15,15 @@ bibliography: skeleton.bib
 link-citations: yes
 ---
 
-```yaml
----
-title: "An Example Using the Tufte Style"
-author: "John Smith"
-output:
-  tufte::tufte_handout: default
-  tufte::tufte_html: default
----
+```r
+
+sgi_blue    = '#5087C8'
+sgi_yellow1 = '#F2EE35'
+sgi_yellow2 = '#FED98E'
+b110_grey   = '#808080'
+b110_grey_light   = '#909090'
+b110_transparent_black = alpha('#000000',0.5)
+
 ```
 
 # Introduction
